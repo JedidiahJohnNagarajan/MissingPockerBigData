@@ -1,7 +1,7 @@
 # Homework 2 BigData
 Jedidiah John Nagarajan
 ## Missing-Poker-Cards
-This is an homework exercise of my Big Data course. In this MapReduce code to you have to find missing poker cards in a deck of 52 cards.
+This is a homework exercise of my Big Data course. In this MapReduce code to you have to find missing poker cards in a deck of 52 cards.
 
 ## How to Run:
 * Copy Poker Input File.txt to HDFS using command:
